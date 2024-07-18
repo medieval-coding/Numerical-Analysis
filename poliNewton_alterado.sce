@@ -1,3 +1,5 @@
+//This version of the Newton polynomial interpolation includes the option for the user to choose between add the expression of the function or add the vector Y of the results. 
+
 clc
 clear
 
